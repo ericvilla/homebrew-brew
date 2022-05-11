@@ -5,7 +5,7 @@ require "language/node"
   homepage "https://leapp.cloud"
   version "0.1.15"
   url "https://registry.npmjs.org/@hesketh-racing/leapp-cli/-/leapp-cli-0.1.15.tgz"
-  sha256 "e1eb024f8d60e0988e320fb189275411f434e7e30bb638645c8f56a38368e2b3"
+  sha256 "44c3fd9c917c3651a34904f759de71967527db2d396726f4bb3d3526b377d2dc"
 
   depends_on "node@16"
   depends_on "libsecret"
