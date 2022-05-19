@@ -1,4 +1,4 @@
-class LeappCli < Formula
+class LeappCliArm64 < Formula
   desc "Install Leapp CLI"
   homepage "https://leapp.cloud"
   version "0.1.19"
