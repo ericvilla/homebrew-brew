@@ -7,7 +7,7 @@ require "language/node"
   url "https://registry.npmjs.org/@hesketh-racing/leapp-cli/-/leapp-cli-0.1.19.tgz"
   sha256 "c74642977c9042894fe0ede22733556792fd533aab706dfd8ef59149b66e505a"
 
-  depends_on "node@16"
+  depends_on "node@14"
   depends_on "libsecret"
   depends_on "python" => :build
 
